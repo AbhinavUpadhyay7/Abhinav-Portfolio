@@ -4,8 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import baloon from "../../Assets/Projects/baloon.png";
-import diabities from "../../Assets/Projects/diabities.png";
-import news from "../../Assets/Projects/news.png";
+import diabities from "../../Assets/Projects/bakery.jpg";
+import news from "../../Assets/Projects/intern.jpg";
 import warehouse from "../../Assets/Projects/warehouse.png";
 import textutils from "../../Assets/Projects/textutils.png";
 
